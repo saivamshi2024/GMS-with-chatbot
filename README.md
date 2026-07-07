@@ -215,19 +215,24 @@ chatbot.html
 
 ---
 
+
+## 📸 Screenshots
+<img width="1849" height="871" alt="image" src="https://github.com/user-attachments/assets/99f65287-2883-41f5-9460-1acccaf5aa48" />
+<img width="1834" height="869" alt="image" src="https://github.com/user-attachments/assets/70063d26-2ea0-44c4-a263-028cb183eb0b" />
+<img width="1844" height="740" alt="image" src="https://github.com/user-attachments/assets/d696e32f-31c5-49f2-a027-bfb9c19b4c73" />
+<img width="525" height="700" alt="Image" src="https://github.com/user-attachments/assets/c69ae600-f62a-460c-ade9-2cf83936c0b3" />
+<img width="1919" height="970" alt="Image" src="https://github.com/user-attachments/assets/1b874946-b120-43aa-b32e-ed0f34be9d03" />
+<img width="13" height="10" alt="Image" src="https://github.com/user-attachments/assets/702d8ef2-1b24-4661-8bba-75500e2ff7b0" />
+<img width="501" height="662" alt="Image" src="https://github.com/user-attachments/assets/29b17fea-d7d0-403a-ba20-580dfed07a41" />
+<img width="504" height="637" alt="Image" src="https://github.com/user-attachments/assets/d52b9b5d-5fbe-4c0d-9fff-82c8e3c6748e" />
+<img width="533" height="695" alt="Image" src="https://github.com/user-attachments/assets/b14b1c67-f0b5-44ee-9fc8-701f11b045c2" />
+
+
+---
 ## 👨‍💻 Author
 
 **Sai Vamshi**
 
 - GitHub: https://github.com/saivamshi2024
 - Project: Grocery Management System with AI Chatbot
-## 📸 Screenshots
-<img width="1849" height="871" alt="image" src="https://github.com/user-attachments/assets/99f65287-2883-41f5-9460-1acccaf5aa48" />
-<img width="1834" height="869" alt="image" src="https://github.com/user-attachments/assets/70063d26-2ea0-44c4-a263-028cb183eb0b" />
-<img width="1844" height="740" alt="image" src="https://github.com/user-attachments/assets/d696e32f-31c5-49f2-a027-bfb9c19b4c73" />
 
-
----
-
-## 👨‍💻 Author
-Nidhish Kamboj
