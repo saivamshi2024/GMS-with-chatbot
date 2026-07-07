@@ -1,0 +1,12 @@
+{% extends 'grocery_app/base.html' %}
+
+{% block title %}Order Confirmation - Grocify {% endblock %}
+
+{% block content %}
+<h2>Order Confirmation</h2>
+<p>Thank you! Your order #{{ order.id }} has been placed.</p>
+<p>Customer: {{ order.customer_name }} ({{ order.customer_email }})</p>
+<p>Total: ${{ order.total_amount|floatformat:2 }}</p>
+<p>Status: {{ order.get_status_display }}</p>
+<a href="{% url 'grocery_app:product_list' %}" class="btn btn-primary mt-3">Continue Shopping</a>
+{% endblock %}

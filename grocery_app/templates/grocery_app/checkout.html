@@ -1,0 +1,13 @@
+{% extends 'grocery_app/base.html' %}
+
+{% block title %}Checkout - Grocify {% endblock %}
+
+{% block content %}
+<h2>Checkout</h2>
+<form method="post">
+    {% csrf_token %}
+    <p>Confirm your order. (This demo uses your account information for name/email.)</p>
+    <button type="submit" class="btn btn-primary">Place Order</button>
+    <a href="{% url 'grocery_app:view_cart' %}" class="btn btn-secondary ms-2">Back to Cart</a>
+</form>
+{% endblock %}

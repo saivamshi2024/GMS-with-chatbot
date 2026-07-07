@@ -1,0 +1,41 @@
+{% extends 'grocery_app/base.html' %}
+
+{% block content %}
+<div class="container mt-5">
+    <h1>About Us</h1>
+    <p>We're redefining grocery shopping with a focus on freshness, convenience, and value. Our goal is to deliver high-quality products quickly, so you spend less time shopping and more time living.</p>
+    
+    <!-- Two Images Side by Side - Fully Visible -->
+    <div class="row mb-4">
+        <div class="col-md-6">
+            <div class="text-center">
+                <img src="https://i.pinimg.com/736x/a8/ca/0f/a8ca0fd6894db828c12767afb4f3e2f1.jpg" 
+                     alt="Grocery Store" 
+                     class="img-fluid rounded shadow"
+                     style="max-width: 100%; height: auto; max-height: 350px;">
+            </div>
+        </div>
+        <div class="col-md-6">
+            <div class="text-center">
+                <img src="https://i.pinimg.com/1200x/b7/60/78/b76078d561aaee56abc0e8bf4e3ecc70.jpg" 
+                     alt="Fresh Produce" 
+                     class="img-fluid rounded shadow"
+                     style="max-width: 100%; height: auto; max-height: 350px;">
+            </div>
+        </div>
+    </div>
+    
+    <div class="row mt-4">
+        <div class="col-md-6">
+            <h3>Our Mission</h3>
+            <p>To make grocery shopping easy, convenient, and affordable for everyone.</p>
+        </div>
+        <div class="col-md-6">
+            <h3>Contact</h3>
+            <p>Email: support@grocerysystem.com</p>
+        </div>
+    </div>
+</div>
+
+<div class="mb-5"></div>
+{% endblock %}
